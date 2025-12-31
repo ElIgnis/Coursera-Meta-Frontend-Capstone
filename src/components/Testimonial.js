@@ -1,7 +1,4 @@
 import { Heading, HStack, Image, Text, VStack, AspectRatio } from "@chakra-ui/react";
-import { FontAwesomeIcon } from "@fortawesome/react-fontawesome";
-import { faArrowRight } from "@fortawesome/free-solid-svg-icons";
-import React from "react";
 
 const Testimonial = ({ username, starRatings, review, imageSrc }) => {
   return (

@@ -1,8 +1,6 @@
-import React from "react";
-import { Button, Text, Image, Heading, HStack, VStack, Flex } from "@chakra-ui/react";
+import { Button, Text, Image, Heading, HStack, VStack } from "@chakra-ui/react";
 import ScreenSection from "./ScreenSection";
 import ReservationImage  from "../images/Reservation.jpg"
-import { Link as ChakraLink } from '@chakra-ui/react';
 import { Link as RouterLink } from 'react-router-dom';
 
 

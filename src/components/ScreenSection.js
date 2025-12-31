@@ -1,4 +1,3 @@
-import * as React from "react";
 import { VStack } from "@chakra-ui/react";
 
 const ScreenSection = ({ children, isDarkBackground, customHeight, ...boxProps }) => {

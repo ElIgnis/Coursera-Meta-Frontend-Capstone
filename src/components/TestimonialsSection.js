@@ -1,5 +1,5 @@
 import ScreenSection from "./ScreenSection";
-import { Button, Heading, HStack, VStack, Box } from "@chakra-ui/react";
+import { Heading, VStack, Box } from "@chakra-ui/react";
 import Testimonial from "./Testimonial";
 
 const testimonials = [
